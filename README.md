@@ -39,4 +39,4 @@ If you use the annotation in your research, please use the following BibTeX entr
 ```
 
 ## Contact
-If you have any queries, please contact us.
+If you have any queries, please contact me.
